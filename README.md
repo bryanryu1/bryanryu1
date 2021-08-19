@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanryu1
-- 👀 I’m interested in Full Stack Development as well as Machine Learning
-- 🌱 I’m currently grinding algorithms!
+- 👀 I’m interested in Full Stack Development as well as Product Management.
+- 🌱 I’m currently working as a Publisher Solutions Associate @ Connatix.
 - 📫 How to reach me you can find me on Linkedin or shoot me an email at bryanryu1@gmail.com.
 
 <!---
